@@ -11,7 +11,7 @@ input[type=text], select, textarea {
   
   margin-top: 6px;
   margin-bottom: 16px;
-  resize: vertical;
+ 
 }
 
 input[type=submit] {
@@ -27,14 +27,18 @@ input[type=submit]:hover {
   background-color: #45a049;
 }
 
+.container {
+  border-radius: 5px;
+  background-color: green;
 
+}
 </style>
 </head>
 <body>
 
 <h3>Contact Form</h3>
 
-
+<div class="container">
   <form action="/action_page.php">
     <label for="fname">First Name</label>
     <input type="text" id="fname" name="firstname" placeholder="Your name..">
