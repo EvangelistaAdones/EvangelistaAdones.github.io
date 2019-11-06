@@ -102,31 +102,3 @@ header nav ul li a.active {
   }
 }
 
-/* Navbar Ends */
-
-/* Login Page Logic */
-.login-wrapper {
-  position: absolute;
-  width: 300px;
-  height: 400px;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%, -50%);
-  font-family: Arial, Helvetica, sans-serif;
-  border-radius: 5px;
-  background-color: green;
-}
-
-.login-wrapper .title {
-  text-align: center;
-  font-weight: bold;
-  color: #2196f3;
-  margin: 50px 20px 10px 20px;
-}
-
-.login-wrapper .form-group {
-  position: relative;
-  margin: 16px 8px;
-  padding: 8px 4px;
-}
-
