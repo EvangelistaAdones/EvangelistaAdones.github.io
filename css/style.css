@@ -61,7 +61,7 @@ header nav ul li a {
 
 header nav ul li a:hover,
 header nav ul li a.active {
-  background-color: #2196f3;
+  background-color: green;
 }
 
 .menu-toggle {
