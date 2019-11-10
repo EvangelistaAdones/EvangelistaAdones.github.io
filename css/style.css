@@ -7,7 +7,6 @@
   width: 80%;
   margin: 0px auto;
 }
-
 .main-wrapper {
   width: 100vw;
   height: 140vh;
@@ -17,9 +16,7 @@
   background-size: cover;
   padding: 30px
 }
-
 /* Navbar */
-
 header {
   position: absolute;
   top: 0px;
